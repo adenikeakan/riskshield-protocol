@@ -82,25 +82,25 @@ RiskShield Protocol leverages Stacks' unique Bitcoin connection to provide:
 
 ## Development Phases
 
-### Phase 1: Core Risk Engine ✅
+### Core Risk Engine ✅
 - [ ] Fundamental risk calculation smart contracts
 - [ ] Basic portfolio position tracking
 - [ ] Simple risk scoring algorithms
 - [ ] Bitcoin-native DeFi protocols integration
 
-### Phase 2: Real-Time Data Integration
+### Real-Time Data Integration
 - [ ] Price oracle integration
 - [ ] Cross-protocol position aggregation
 - [ ] Risk threshold monitoring
 - [ ] Alert mechanisms
 
-### Phase 3: Automated Protection
+### Automated Protection
 - [ ] Automated liquidation smart contracts
 - [ ] Risk mitigation strategies
 - [ ] Emergency stop mechanisms
 - [ ] Governance controls
 
-### Phase 4: Advanced Analytics
+### Advanced Analytics
 - [ ] Sophisticated risk metrics (VaR, stress testing)
 - [ ] Portfolio optimization algorithms
 - [ ] Predictive risk modeling
@@ -117,7 +117,7 @@ RiskShield Protocol leverages Stacks' unique Bitcoin connection to provide:
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/riskshield-protocol
+git clone https://github.com/adenikeakan/riskshield-protocol
 cd riskshield-protocol
 npm install
 ```
